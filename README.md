@@ -1,2 +1,2 @@
 # SP-DTI
-We are cleaning the code and will release it before June 30, 2024
+We are cleaning the code and will release it with instructions to reproduce the experiments soon. 
