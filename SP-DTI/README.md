@@ -1,1 +1,0 @@
-The original SP-DTI model was developed using FlexMol. We are currently working on a version that does not rely on FlexMol, and it will be made available in this folder once completed.
