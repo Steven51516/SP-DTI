@@ -56,7 +56,7 @@ data/
 Replace DATASET_NAME with the name of the dataset you are working on (e.g., DAVIS, BIOSNAP) and ensure that the subfolders contain the respective files for each step.
 
 ## Run
-Our script automatically manages everything from preprocessing to evaluation. If you want to analyze the result in custom way(eg. using you rown matrics), you can replace the last line "trainer.test" with "trainer.inferece", which returns two lists the prediced label and ground truth label.
+Our script automatically manages everything from preprocessing to evaluation. If you want to analyze the results in a custom way (e.g., using your own metrics), you can replace the last line, `trainer.test`, with `trainer.inference`, which returns two lists: the predicted labels and the ground truth labels.
 
 You can directly run the following command to start the experiments:
 
